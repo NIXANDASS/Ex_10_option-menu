@@ -20,13 +20,14 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+```
 Program to print the text “optionmenu”.
 Developed by: NIXAN DASS A
 Registeration Number : 212222040109
-*/
+```
 ### activity_main.xml
-```<?xml version="1.0" encoding="utf-8"?>
+```
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -112,3 +113,4 @@ public class MainActivity extends AppCompatActivity {
 ![ex10](https://github.com/user-attachments/assets/2cb15e74-390a-4dff-b40e-438f3d556496)
 
 ## RESULT
+The application successfully displays an options menu with various items, and upon selecting any item, a toast message shows the selected item.
